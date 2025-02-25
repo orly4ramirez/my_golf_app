@@ -1,0 +1,35 @@
+# Flutter/Dart generated files
+*.g.dart
+*.freezed.dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.metadata
+
+# IDE files
+.idea/
+*.iml
+
+# Local config and secrets
+*.env
+android/key.properties
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
+# Platform-specific exclusions
+windows/*.vcxproj
+windows/*.vcxproj.filters
+windows/*.sln
+windows/build/
+macos/*.xcworkspace
+macos/build/
+macos/Runner/*.xcconfig
+macos/Runner/GoogleService-Info.plist
+ios/build/
+linux/build/
+
+# OS junk
+.DS_Store
+Thumbs.db
